@@ -1,6 +1,5 @@
 # ============================================================
 # Ejercicios Complementarios - Semana 4
-# VERSIÓN FINAL CORREGIDA (sin errores)
 # ============================================================
 
 import numpy as np
