@@ -68,7 +68,7 @@ print("Filas con nulos:\n", df[df.isnull().any(axis=1)])
 
 
 # ============================================================
-# EJERCICIO 5: Estrategias de imputación (CORREGIDO)
+# EJERCICIO 5: Estrategias de imputación 
 # ============================================================
 print("\nEJERCICIO 5: Imputación")
 
